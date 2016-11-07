@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestaurantsSample</string>
+    <string name="login">Login</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_valid_data">Enter valid data</string>
+</resources>
